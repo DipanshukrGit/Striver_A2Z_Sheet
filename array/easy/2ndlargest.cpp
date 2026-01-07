@@ -6,7 +6,7 @@ Second Smallest : 2
 Second Largest : 5
 Explanation:
   The elements are sorted as 1, 2, 4, 5, 7, 7.
-Hence, the second smallest element is 2, and the second largest element is 5.
+Hence, the second smallest element is 2, and the second largest element is 5
 */
 
 
